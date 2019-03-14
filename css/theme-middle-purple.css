@@ -1,0 +1,13 @@
+.dashboard-sideBar-ct{
+	background-color: rgba(25, 9, 51, 0.7) !important;
+}
+
+.dashboard-Navbar{
+	background-color: #190933 !important;
+}
+
+@media (max-width: 767px){
+	.dashboard-sideBar-ct{
+		background-color: #190933 !important;
+	}
+}
